@@ -69,6 +69,21 @@ int sum_alive(state grid[HEIGHT][WIDTH], int ox, int oy){
             }
             int x = ox + dx;
             int y = oy + dy;
+
+            if(x < 0){
+                x = WIDTH - 1;
+            }
+            else if(x > (WIDTH - 1)){
+                x = 0;
+            }
+
+            if(y < 0){
+                y = HEIGHT - 1;
+            }
+            else if(y > (HEIGHT - 1)){
+                y = 0;
+            }
+
             if(grid[y][x] == ALIVE){
                 sum++;
             }

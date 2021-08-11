@@ -1,8 +1,8 @@
 # Apie
 
-Suprogramuotas (Game of Life)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life]
+Suprogramuotas [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-Video: (Youtube)[https://www.youtube.com/watch?v=V3-bh6ES6Lc]
+Video: [Youtube](https://www.youtube.com/watch?v=V3-bh6ES6Lc)
 
 # Turinys
 
